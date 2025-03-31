@@ -1,0 +1,4 @@
+repository "chatCat@tj_catchat_jn@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
